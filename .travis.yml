@@ -1,5 +1,5 @@
 language: ruby
-build_environment: ubuntu1304
+
 script: "rake spec"
 
 rvm:
